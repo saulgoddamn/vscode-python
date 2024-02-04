@@ -67,5 +67,9 @@
         "pythonFiles/tests"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "i18n-ally.localesPaths": [
+        "languages",
+        "src/client/language"
+    ]
 }
